@@ -14,3 +14,10 @@ It includes the following functions:
 
 **USE AT OWN RISK. There are some commands that delete the upload folder with delete *.*! So be carefull!**
 
+---
+
+Installation:
+
+1) Set up folders, for an example: c:/Users/Username/Programs/dosmarkable
+- within this folder create the following folders:
+--
