@@ -1,7 +1,7 @@
 # dosMarkable
 CMD.exe Batch script for the reMarkable tablet for Windows (tested on Windows 10)
 
-This script uses only system commands to deal with the reMarkable tablet.
+This script uses only system commands to deal with the reMarkable tablet (https://remarkable.com).
 
 It uses SSH over USB. You need to set up a SHH access (guide at [remarkablewiki](https://remarkablewiki.com/tech/ssh))
 
