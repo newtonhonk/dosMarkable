@@ -12,7 +12,7 @@ It includes the following functions:
 - SSH into the reMarkable tablet via SSH
 - reboot the reMarkable tablet via SHH
 
-**USE AT OWN RISK. There are some commands that delete the upload folder with delete *.*! So be carefull!**
+**USE AT OWN RISK. There are some commands that uses delete *.*! So be carefull!**
 
 ---
 ## Installation:
