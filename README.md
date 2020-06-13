@@ -15,6 +15,7 @@ It includes the following functions:
 **USE AT OWN RISK. There are some commands that uses delete *.*! So be carefull!**
 
 My skills in creating .bat files are limited, so improvements are highly welcome.
+Also still searching for a way to download all documents from the reMarkable tablet just with windows system tools.
 
 ---
 ## Installation:
