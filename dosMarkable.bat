@@ -8,7 +8,7 @@ SET _name=dosMarkable
 SET _version=1.001
 
 :: Folders on PC
-SET _workfolder=C:\Users\Planer\Programme\dosMarkable\
+SET _workfolder=C:\Users\USERNAME\PROGRAMMFOLDER\dosMarkable\
 SET _uploadfolder=%_workfolder%Upload
 SET _backupfolder=%_workfolder%Backup
 SET _templatefolder=%_workfolder%Templates
