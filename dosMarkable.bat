@@ -152,6 +152,7 @@ goto home
 :: Upload templates
 :rmtemplate
 ECHO UPLOAD Templates
+ECHO Don't forget to edit the templates.json!
 scp "%_templatefolder%\*" "root@%_IPUSB%:/%_rmtemplates%/"
 ECHO.
 PAUSE
