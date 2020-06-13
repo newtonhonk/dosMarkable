@@ -26,5 +26,9 @@ It includes the following functions:
 2) Copy dosMarkable.bat where ever you want. Maybe in dosMarkable folder.
 3) Create a Alias for the dosMarkable.bat (if you like)
 4) Add the programm path (step 1) to the setting in the dosMarkable.bat
-- SET _workfolder=c:/Users/Username/Programs/dosMarkable
+- SET _workfolder=C:\Users\USERNAME\PROGRAMMFOLDER\dosMarkable\
+
+---
+## Screenshot
+
 
