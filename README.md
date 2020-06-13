@@ -17,7 +17,7 @@ It includes the following functions:
 ---
 ## Installation:
 
-1) Set up folders, for an example: c:/Users/Username/Programs/dosMarkable
+1) Create a folder on your harddrive, for an example: c:/Users/Username/Programs/dosMarkable
 - within this folder create the following folders:
   - Backup
   - Splashscreens
@@ -25,4 +25,6 @@ It includes the following functions:
   - Upload
 2) Copy dosMarkable.bat where ever you want. Maybe in dosMarkable folder.
 3) Create a Alias for the dosMarkable.bat (if you like)
+4) Add the programm path (step 1) to the setting in the dosMarkable.bat
+- SET _workfolder=c:/Users/Username/Programs/dosMarkable
 
