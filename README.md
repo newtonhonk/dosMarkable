@@ -19,7 +19,7 @@ My skills in creating .bat files are limited, so improvements are highly welcome
 ---
 ## Installation:
 
-1) Create a folder on your harddrive, for an example: c:/Users/Username/Programs/dosMarkable
+1) Create a folder on your harddrive, for an example: C:\Users\USERNAME\PROGRAMMFOLDER\dosMarkable\
 - within this folder create the following folders:
   - Backup
   - Splashscreens
