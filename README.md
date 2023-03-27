@@ -1,6 +1,7 @@
 **USE AT OWN RISK. There are some commands that uses delete *.*! So be carefull!**
 **It also overwrites some files on the reMarkable. So be carefull again!**
-**I am not computer expert. I have amateurishly cobbled together this script.****
+**I am not computer expert. I have amateurishly cobbled together this script.**
+**It can brick your system! So again ... be carefull!**
 
 # dosMarkable
 CMD.exe Batch script for the reMarkable tablet for Windows (tested on Windows 11)
@@ -18,6 +19,7 @@ It includes the following functions:
 - Clear tombstone files after empty trash
 - Backup templates and splashscreens from the reMarkable tablet via SSH
 - SSH into the reMarkable tablet via SSH
+- Install templates and splashscreens (CAREFULL!!!! CURRENTLY OVERWRITES STUFF!!! CAN BRICK THE SYSTEM!)
 
 My skills in creating .bat files are limited, so improvements are highly welcome.
 
