@@ -39,5 +39,5 @@ My skills in creating .bat files are limited, so improvements are highly welcome
 
 ---
 ## Screenshot
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot2.jpg)
 
