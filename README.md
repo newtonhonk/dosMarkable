@@ -8,7 +8,7 @@ CMD.exe Batch script for the reMarkable tablet for Windows (tested on Windows 11
 This script uses only system commands to deal with the reMarkable tablet (https://remarkable.com).
 
 It depends on:
-- the USB-Webinterface (see [reMarkable Wiki](https://remarkablewiki.com/tech/webinterface)
+- the USB-Webinterface (see [reMarkable Wiki](https://remarkablewiki.com/tech/webinterface))
 - SSH over USB (see [remarKable wiki](https://remarkablewiki.com/tech/ssh))
 
 It includes the following functions:
