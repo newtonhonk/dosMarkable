@@ -10,7 +10,7 @@ This script uses only system commands to deal with the reMarkable tablet (https:
 
 It depends on:
 - the USB-Webinterface (see [reMarkable Wiki](https://remarkablewiki.com/tech/webinterface))
-- SSH over USB (see [remarKable wiki](https://remarkablewiki.com/tech/ssh))
+- SSH over USB (see [reMarkable wiki](https://remarkablewiki.com/tech/ssh))
 
 It includes the following functions:
 - Upload and rename PDFs from a folder
